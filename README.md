@@ -23,3 +23,7 @@ Bem-vindo ao meu perfil! Sou estudante de **Análise e Desenvolvimento de Sistem
 
 Se você é um entusiasta da programação, vamos trocar ideias! 💬
 
+## 📱 Conecte-se comigo!
+
+- [Instagram](https://www.instagram.com/_brunomaciel10/)  
+- [LinkedIn](https://www.linkedin.com/in/bruno-maciel-a64606357/)
