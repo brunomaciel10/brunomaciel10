@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, sou o Bruno! 👋
 
-<!--
-**brunomaciel10/brunomaciel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou super empolgado com a jornada para me tornar um programador no futuro. Acredito que a tecnologia tem o poder de transformar o mundo, e estou focado em desenvolver minhas habilidades para contribuir nesse processo.
 
-Here are some ideas to get you started:
+## 🚀 Objetivos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tornar-me um programador Full-Stack
+- Aprofundar meus conhecimentos em linguagens como **JavaScript** e **Python**
+- Contribuir para projetos open-source
+- Criar soluções inovadoras que façam a diferença
+
+
+## 🔧 O que estou aprendendo?
+
+- **Front-End**: HTML, CSS, JavaScript, React
+- **Versionamento**: Git, GitHub
+
+## 📈 Minhas estatísticas
+
+![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunomaciel10&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+## 🌱 Estou sempre aprendendo e buscando me aprimorar!
+
+Se você é um entusiasta da programação, vamos trocar ideias! 💬
+
